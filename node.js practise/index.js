@@ -1,3 +1,4 @@
-const suman= require("./second")
+const jyoti = require('./second.js')
 
-console.log("myself Jyoti Sharma" ,jyoti)
+console.log("myself Jyoti Sharma", jyoti)
+
